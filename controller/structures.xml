@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="forceWithYou_main" name="force_with_you" level="1" group="main">
+		<description />
+		<sections>
+			<section id="forceWithYou_main" name="force_with_you" url="/forceWithYou/ForceWithYou/index" />
+			<section id="forceWithYou_other" name="Template" url="/forceWithYou/ForceWithYou/templateExample" />
+		</sections>
+	</structure>
+</structures>
